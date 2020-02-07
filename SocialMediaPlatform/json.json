@@ -1,0 +1,55 @@
+{
+   "kind":"youtube#playlistItemListResponse",
+   "etag":"\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KwvQXKyp36qMPEZz3GrRyOH7dNA\"",
+   "nextPageToken":"CAoQAA",
+   "prevPageToken":"CAUQAQ",
+   "pageInfo":{
+      "totalResults":12,
+      "resultsPerPage":5
+   },
+   "items":[
+      {
+         "kind":"youtube#playlistItem",
+         "etag":"\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tuYND-lNVEt0rAMUldCfxCKDo6k\"",
+         "id":"UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi4xMkVGQjNCMUM1N0RFNEUx",
+         "snippet":{
+            "publishedAt":"2012-11-03T17:40:45.000Z",
+            "channelId":"UCJSUuqCeOHhSZYvKW2WcTvw",
+            "title":"Final Fantasy 8 Theme/Intro Song HD",
+            "description":"Song: Liberi Fatali\r\nhere are the English lyrics:\r\n \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\n\r\nWake from your sleep, my children\r\n Your childhood years are gone \r\nWake from your sleep, Fated Children\r\n Your slumber is over \r\n\r\nArise \r\nSearch \r\n\r\nCome to the Garden of Truth \r\nThe Spring of the Garden of Truth \r\n\r\nWith the Fiery Truth \r\nBurn away the Evils of the World \r\nWith the Fiery Truth \r\nLight the Darkness of the World \r\n\r\nBe strong, Children \r\nOn the Fated Days \r\n\r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec \r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec",
+            "thumbnails":{
+               "default":{
+                  "url":"https://i.ytimg.com/vi/yu1hn3w0Viw/default.jpg",
+                  "width":120,
+                  "height":90
+               },
+               "medium":{
+                  "url":"https://i.ytimg.com/vi/yu1hn3w0Viw/mqdefault.jpg",
+                  "width":320,
+                  "height":180
+               },
+               "high":{
+                  "url":"https://i.ytimg.com/vi/yu1hn3w0Viw/hqdefault.jpg",
+                  "width":480,
+                  "height":360
+               },
+               "standard":{
+                  "url":"https://i.ytimg.com/vi/yu1hn3w0Viw/sddefault.jpg",
+                  "width":640,
+                  "height":480
+               },
+               "maxres":{
+                  "url":"https://i.ytimg.com/vi/yu1hn3w0Viw/maxresdefault.jpg",
+                  "width":1280,
+                  "height":720
+               }
+            },
+            "channelTitle":"Tien nguyen",
+            "playlistId":"PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+            "position":5,
+            "resourceId":{
+               "kind":"youtube#video",
+               "videoId":"yu1hn3w0Viw"
+            }
+         }
+      }

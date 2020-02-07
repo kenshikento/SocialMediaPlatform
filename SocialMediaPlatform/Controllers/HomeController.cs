@@ -5,21 +5,23 @@ using System.Web;
 using System.Web.Mvc;
 using SocialMediaPlatform.Support;
 using System.Threading.Tasks;
+using System.IO;
+using Newtonsoft.Json;
 
 namespace SocialMediaPlatform.Controllers
 {
     public class HomeController : Controller
     {
         public async Task<ActionResult> Index()
+        //public ActionResult Index()
         {
             System.Diagnostics.Debug.WriteLine(123);
             var instance = new YoutubeService();
 
-            // Dummy playlist 
-            string playListID = "PLH5ogLzrBuBVi4S14Bmwf3VBLc4FfzljG";
-            object hello = await instance.getPlayList(playListID); 
+            string playListID = "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2";
+            object hello = await instance.getPlayList(playListID);
 
-            System.Diagnostics.Debug.WriteLine(instance);
+            System.Diagnostics.Debug.WriteLine(hello);
             return View();
 
         }

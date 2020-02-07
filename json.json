@@ -1,0 +1,1013 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KwvQXKyp36qMPEZz3GrRyOH7dNA\"",
+ "nextPageToken": "CAoQAA",
+ "prevPageToken": "CAUQAQ",
+ "pageInfo": {
+  "totalResults": 12,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tuYND-lNVEt0rAMUldCfxCKDo6k\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:40:45.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 8 Theme/Intro Song HD",
+    "description": "Song: Liberi Fatali\r\nhere are the English lyrics:\r\n \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\n\r\nWake from your sleep, my children\r\n Your childhood years are gone \r\nWake from your sleep, Fated Children\r\n Your slumber is over \r\n\r\nArise \r\nSearch \r\n\r\nCome to the Garden of Truth \r\nThe Spring of the Garden of Truth \r\n\r\nWith the Fiery Truth \r\nBurn away the Evils of the World \r\nWith the Fiery Truth \r\nLight the Darkness of the World \r\n\r\nBe strong, Children \r\nOn the Fated Days \r\n\r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec \r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yu1hn3w0Viw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DmAL1mjN-8UWHx9uFbVBh8LOhBU\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:04.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy X Theme Song \"Suteki da ne\"",
+    "description": "This is the theme song of Final Fantasy X its called Suteki da ne the song's translates to Isn't It Wonderful in english. The song was written by Nobuo Uematsu and Kazushige Nojima it was also sung by the Japanese folk singer Ritsuki Nakano who is more commonly known as RIKKI.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pmnJQidr0Uk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XaMvOJs-CXNfz6kLCvYYv1wzbi4\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:38.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 7 Music - Aerith's Theme",
+    "description": "Final Fantasy 7 Music - Aerith's Theme",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4CK2hx377iU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uJ184gunDa5dI5vw_e0ndvtxoRk\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:44:39.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "VGM Selection - Final Fantasy Battle Themes (FFI - FFX)",
+    "description": "Here is a compilation of the new Final Fantasy battle themes from I-X including The Man with the Machine Gun track from FFVIII.\n\nUp to date as of May 2007.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "M_NzoRLRR0o"
+    }
+   }
+  }
+ ]
+}
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KwvQXKyp36qMPEZz3GrRyOH7dNA\"",
+ "nextPageToken": "CAoQAA",
+ "prevPageToken": "CAUQAQ",
+ "pageInfo": {
+  "totalResults": 12,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tuYND-lNVEt0rAMUldCfxCKDo6k\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:40:45.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 8 Theme/Intro Song HD",
+    "description": "Song: Liberi Fatali\r\nhere are the English lyrics:\r\n \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\n\r\nWake from your sleep, my children\r\n Your childhood years are gone \r\nWake from your sleep, Fated Children\r\n Your slumber is over \r\n\r\nArise \r\nSearch \r\n\r\nCome to the Garden of Truth \r\nThe Spring of the Garden of Truth \r\n\r\nWith the Fiery Truth \r\nBurn away the Evils of the World \r\nWith the Fiery Truth \r\nLight the Darkness of the World \r\n\r\nBe strong, Children \r\nOn the Fated Days \r\n\r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec \r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yu1hn3w0Viw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DmAL1mjN-8UWHx9uFbVBh8LOhBU\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:04.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy X Theme Song \"Suteki da ne\"",
+    "description": "This is the theme song of Final Fantasy X its called Suteki da ne the song's translates to Isn't It Wonderful in english. The song was written by Nobuo Uematsu and Kazushige Nojima it was also sung by the Japanese folk singer Ritsuki Nakano who is more commonly known as RIKKI.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pmnJQidr0Uk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XaMvOJs-CXNfz6kLCvYYv1wzbi4\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:38.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 7 Music - Aerith's Theme",
+    "description": "Final Fantasy 7 Music - Aerith's Theme",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4CK2hx377iU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uJ184gunDa5dI5vw_e0ndvtxoRk\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:44:39.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "VGM Selection - Final Fantasy Battle Themes (FFI - FFX)",
+    "description": "Here is a compilation of the new Final Fantasy battle themes from I-X including The Man with the Machine Gun track from FFVIII.\n\nUp to date as of May 2007.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "M_NzoRLRR0o"
+    }
+   }
+  }
+ ]
+}
+
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KwvQXKyp36qMPEZz3GrRyOH7dNA\"",
+ "nextPageToken": "CAoQAA",
+ "prevPageToken": "CAUQAQ",
+ "pageInfo": {
+  "totalResults": 12,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tuYND-lNVEt0rAMUldCfxCKDo6k\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:40:45.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 8 Theme/Intro Song HD",
+    "description": "Song: Liberi Fatali\r\nhere are the English lyrics:\r\n \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\n\r\nWake from your sleep, my children\r\n Your childhood years are gone \r\nWake from your sleep, Fated Children\r\n Your slumber is over \r\n\r\nArise \r\nSearch \r\n\r\nCome to the Garden of Truth \r\nThe Spring of the Garden of Truth \r\n\r\nWith the Fiery Truth \r\nBurn away the Evils of the World \r\nWith the Fiery Truth \r\nLight the Darkness of the World \r\n\r\nBe strong, Children \r\nOn the Fated Days \r\n\r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec \r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yu1hn3w0Viw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DmAL1mjN-8UWHx9uFbVBh8LOhBU\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:04.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy X Theme Song \"Suteki da ne\"",
+    "description": "This is the theme song of Final Fantasy X its called Suteki da ne the song's translates to Isn't It Wonderful in english. The song was written by Nobuo Uematsu and Kazushige Nojima it was also sung by the Japanese folk singer Ritsuki Nakano who is more commonly known as RIKKI.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pmnJQidr0Uk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XaMvOJs-CXNfz6kLCvYYv1wzbi4\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:38.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 7 Music - Aerith's Theme",
+    "description": "Final Fantasy 7 Music - Aerith's Theme",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4CK2hx377iU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uJ184gunDa5dI5vw_e0ndvtxoRk\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:44:39.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "VGM Selection - Final Fantasy Battle Themes (FFI - FFX)",
+    "description": "Here is a compilation of the new Final Fantasy battle themes from I-X including The Man with the Machine Gun track from FFVIII.\n\nUp to date as of May 2007.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "M_NzoRLRR0o"
+    }
+   }
+  }
+ ]
+}
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uV8xKwc83N10hWNGvkIrv6dvAss\"",
+ "nextPageToken": "CAoQAA",
+ "prevPageToken": "CAUQAQ",
+ "pageInfo": {
+  "totalResults": 12,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tuYND-lNVEt0rAMUldCfxCKDo6k\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:40:45.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 8 Theme/Intro Song HD",
+    "description": "Song: Liberi Fatali\r\nhere are the English lyrics:\r\n \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\n\r\nWake from your sleep, my children\r\n Your childhood years are gone \r\nWake from your sleep, Fated Children\r\n Your slumber is over \r\n\r\nArise \r\nSearch \r\n\r\nCome to the Garden of Truth \r\nThe Spring of the Garden of Truth \r\n\r\nWith the Fiery Truth \r\nBurn away the Evils of the World \r\nWith the Fiery Truth \r\nLight the Darkness of the World \r\n\r\nBe strong, Children \r\nOn the Fated Days \r\n\r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec \r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yu1hn3w0Viw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DmAL1mjN-8UWHx9uFbVBh8LOhBU\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:04.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy X Theme Song \"Suteki da ne\"",
+    "description": "This is the theme song of Final Fantasy X its called Suteki da ne the song's translates to Isn't It Wonderful in english. The song was written by Nobuo Uematsu and Kazushige Nojima it was also sung by the Japanese folk singer Ritsuki Nakano who is more commonly known as RIKKI.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pmnJQidr0Uk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XaMvOJs-CXNfz6kLCvYYv1wzbi4\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:38.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 7 Music - Aerith's Theme",
+    "description": "Final Fantasy 7 Music - Aerith's Theme",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4CK2hx377iU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uJ184gunDa5dI5vw_e0ndvtxoRk\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:44:39.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "VGM Selection - Final Fantasy Battle Themes (FFI - FFX)",
+    "description": "Here is a compilation of the new Final Fantasy battle themes from I-X including The Man with the Machine Gun track from FFVIII.\n\nUp to date as of May 2007.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "M_NzoRLRR0o"
+    }
+   }
+  }
+ ]
+}
+
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uV8xKwc83N10hWNGvkIrv6dvAss\"",
+ "nextPageToken": "CAoQAA",
+ "prevPageToken": "CAUQAQ",
+ "pageInfo": {
+  "totalResults": 12,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/tuYND-lNVEt0rAMUldCfxCKDo6k\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:40:45.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 8 Theme/Intro Song HD",
+    "description": "Song: Liberi Fatali\r\nhere are the English lyrics:\r\n \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\nFithos Lusec Wecos Vinosec \r\n\r\nWake from your sleep, my children\r\n Your childhood years are gone \r\nWake from your sleep, Fated Children\r\n Your slumber is over \r\n\r\nArise \r\nSearch \r\n\r\nCome to the Garden of Truth \r\nThe Spring of the Garden of Truth \r\n\r\nWith the Fiery Truth \r\nBurn away the Evils of the World \r\nWith the Fiery Truth \r\nLight the Darkness of the World \r\n\r\nBe strong, Children \r\nOn the Fated Days \r\n\r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec \r\nFithos lusec wecos vinosec\r\nFithos lusec wecos vinosec",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yu1hn3w0Viw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "yu1hn3w0Viw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/DmAL1mjN-8UWHx9uFbVBh8LOhBU\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:04.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy X Theme Song \"Suteki da ne\"",
+    "description": "This is the theme song of Final Fantasy X its called Suteki da ne the song's translates to Isn't It Wonderful in english. The song was written by Nobuo Uematsu and Kazushige Nojima it was also sung by the Japanese folk singer Ritsuki Nakano who is more commonly known as RIKKI.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pmnJQidr0Uk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pmnJQidr0Uk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XaMvOJs-CXNfz6kLCvYYv1wzbi4\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:42:38.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy 7 Music - Aerith's Theme",
+    "description": "Final Fantasy 7 Music - Aerith's Theme",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4CK2hx377iU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4CK2hx377iU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/uJ184gunDa5dI5vw_e0ndvtxoRk\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:44:39.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "VGM Selection - Final Fantasy Battle Themes (FFI - FFX)",
+    "description": "Here is a compilation of the new Final Fantasy battle themes from I-X including The Man with the Machine Gun track from FFVIII.\n\nUp to date as of May 2007.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/M_NzoRLRR0o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "M_NzoRLRR0o"
+    }
+   }
+  }
+ ]
+}
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/KWYNv4BTdlyrPT-e6DEIUANXoWc\"",
+ "nextPageToken": "CAUQAA",
+ "pageInfo": {
+  "totalResults": 12,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/UdTywQg5z8gCNo4ga-XdkAjTRi0\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:37:50.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Sephiroth/one winged angel theme song",
+    "description": "theme song of sephiroth\r\n\r\ntranslated:\r\nWon't remain, remain in memory (x2)\r\n\r\nSephiroth, Sephiroth\r\n\r\nRaging anger, anger and misery (x2)\r\n\r\nSephiroth, Sephiroth\r\n\r\nFierce terror, fierce fate\r\n\r\nWon't to remain, remain in memory (x2)\r\n\r\nSephiroth, Sephiroth\r\n\r\nCome, my son. Come, my son\r\nCome here, give me death once more\r\nCome, my son. Come, my son\r\nCome here, give me...\r\n\r\nWon't remain in memory\r\nRaging anger and misery\r\nFierce, terrible fate\r\nThe second advent\r\n\r\nMy son, come, come, come, my son (x4)\r\n\r\nMy son, come, come, come, my son\r\n(By death's invitation)\r\nMy son, come, come, come, my son\r\n(Painful tainted birth)\r\nMy son, come, come, come, my son\r\n(Won't call the name)\r\nMy son, come, come, come, my son\r\n(The second advent)\r\n\r\nSephiroth, Sephiroth\r\n\r\nSephiroth",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NXxU0SXBF5Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NXxU0SXBF5Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NXxU0SXBF5Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NXxU0SXBF5Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/rS4uKunqcamRF6JNDtgkOsQXCBQ\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:37:56.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Sephiroth/one winged angel theme song",
+    "description": "theme song of sephiroth\r\n\r\ntranslated:\r\nWon't remain, remain in memory (x2)\r\n\r\nSephiroth, Sephiroth\r\n\r\nRaging anger, anger and misery (x2)\r\n\r\nSephiroth, Sephiroth\r\n\r\nFierce terror, fierce fate\r\n\r\nWon't to remain, remain in memory (x2)\r\n\r\nSephiroth, Sephiroth\r\n\r\nCome, my son. Come, my son\r\nCome here, give me death once more\r\nCome, my son. Come, my son\r\nCome here, give me...\r\n\r\nWon't remain in memory\r\nRaging anger and misery\r\nFierce, terrible fate\r\nThe second advent\r\n\r\nMy son, come, come, come, my son (x4)\r\n\r\nMy son, come, come, come, my son\r\n(By death's invitation)\r\nMy son, come, come, come, my son\r\n(Painful tainted birth)\r\nMy son, come, come, come, my son\r\n(Won't call the name)\r\nMy son, come, come, come, my son\r\n(The second advent)\r\n\r\nSephiroth, Sephiroth\r\n\r\nSephiroth",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NXxU0SXBF5Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NXxU0SXBF5Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NXxU0SXBF5Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NXxU0SXBF5Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/bu-Hd4YtJIMw5K-EKmmh5e1F6mY\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:38:35.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy XIII Battle Theme",
+    "description": "Would you save a world that doesn't want you in it?  THE BATTLE WITHIN BEGINS March 9th 2010! \r\n\r\nOn PS3 and Xbox360",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/39Cg92jbc88/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/39Cg92jbc88/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/39Cg92jbc88/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "39Cg92jbc88"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/XeDi0MMd0M6MHW2DFWsNzdgz03g\"",
+   "id": "UExyUU1NamFFcUJwTlRiNDBFSFhlRF8zcjVRMlV5TWpDMi4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2012-11-03T17:39:33.000Z",
+    "channelId": "UCJSUuqCeOHhSZYvKW2WcTvw",
+    "title": "Final Fantasy Versus XIII Trailer in HD!",
+    "description": "Click the HD button!\r\n\r\nSecond Trailer: http://www.youtube.com/watch?v=kGyVZRHZ2ow&fmt=22\r\n\r\nThird Trailer: http://www.youtube.com/watch?v=9sga_LB0Yro&fmt=22\r\nPlot:\r\nFinal Fantasy Versus XIII revolves around a prince named Noctis Lucis Caelum, who is the last heir to an unnamed kingdom in which the last Crystal is kept. Because of increasingly apparent modernization in contrast to neighboring nations, Noctis' kingdom has isolated itself from the outside world. The game is set as two nations battle each other for dominance and for the last Crystal held by Noctis' kingdom. The game has been said to initiate at the \"clearing\" of a long Cold War between warring nations that revolved around these crystals.\r\n\r\nwww.square-enix.com\r\n\r\nAll rights reserved to Square Enix Co., Ltd. for the media. This is purely a fan made video for entertainment purposes with no copyright infringement intended. I do not make a profit of this video as it is purely for entertainment.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/b6At_bb1PNU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/b6At_bb1PNU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/b6At_bb1PNU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tien nguyen",
+    "playlistId": "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "b6At_bb1PNU"
+    }
+   }
+  }
+ ]
+}
