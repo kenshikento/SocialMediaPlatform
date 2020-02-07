@@ -72,11 +72,8 @@ namespace SocialMediaPlatform.Support
 
                 dynamic responseBody = JObject.Parse(await response.Content.ReadAsStringAsync());            
                 JArray responseArray = responseBody["items"];
-
-
                 string responseBodyString = responseBody.ToString();
                 
-                string test = (string)responseBody["nextPageToken"];
 
                 if(responseBody.ContainsKey("nextPageToken"))
                 {

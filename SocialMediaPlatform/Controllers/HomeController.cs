@@ -15,13 +15,12 @@ namespace SocialMediaPlatform.Controllers
         public async Task<ActionResult> Index()
         //public ActionResult Index()
         {
-            System.Diagnostics.Debug.WriteLine(123);
             var instance = new YoutubeService();
 
             string playListID = "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2";
-            object hello = await instance.getPlayList(playListID);
+            object testOutput = await instance.getPlayList(playListID);
 
-            System.Diagnostics.Debug.WriteLine(hello);
+            System.Diagnostics.Debug.WriteLine(testOutput);
             return View();
 
         }
