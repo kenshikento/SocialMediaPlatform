@@ -18,9 +18,9 @@ namespace SocialMediaPlatform.Controllers
             var instance = new YoutubeService();
 
             string playListID = "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2";
-            object testOutput = await instance.getPlayList(playListID);
+            Array testOutput = await instance.getPlayList(playListID);
 
-            System.Diagnostics.Debug.WriteLine(testOutput);
+            //System.Diagnostics.Debug.WriteLine(testOutput);
             return View();
 
         }

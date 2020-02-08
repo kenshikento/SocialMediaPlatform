@@ -14,7 +14,7 @@ namespace SocialMediaPlatform.Support
     {
         public string Creds()
         {  
-            return "Test"; // Change this to yours
+            return "EXAMPLE-"; // Change this to yours
         }
 
         static readonly HttpClient client = new HttpClient();
@@ -41,7 +41,6 @@ namespace SocialMediaPlatform.Support
                 if(par.ContainsKey("pageToken"))
                 {
                     string token = par.FirstOrDefault(x => x.Key == "pageToken").Value;
-                    System.Diagnostics.Debug.WriteLine(token);
                     String[] spearator = { "&" };
                     Int32 count = 5;
                     //URL TOKEN
@@ -108,7 +107,7 @@ namespace SocialMediaPlatform.Support
 
                     return responseArray.ToString();
                 }
-
+                // TODO>:need to resolve single page result 
                 return responseBody.ToString();
             }
             catch (HttpRequestException e) 
@@ -117,7 +116,7 @@ namespace SocialMediaPlatform.Support
             }
         }
 
-        public async Task<object> getPlayList(string playListID)
+        public async Task<Array> getPlayList(string playListID, string dir = "desc", int take = 10)
         {
             string apiKey = Creds();
             var parm = new Dictionary<string, string>();
@@ -126,9 +125,18 @@ namespace SocialMediaPlatform.Support
             parm.Add("key", apiKey);
             string type = "playlistItems";
 
-            object response = await BaseCall(type, parm);
-            // TODO: Need to add Cache into response
-            return response;
+
+            string response = await BaseCall(type, parm);
+            JArray responseOutput = JArray.Parse(response);
+
+            var results = responseOutput
+                .Children()
+                .Select(v => v["snippet"].Value<JToken>())
+                .Take(take)
+                .ToArray()                
+            ;
+
+            return results;
         }
     }
 }
