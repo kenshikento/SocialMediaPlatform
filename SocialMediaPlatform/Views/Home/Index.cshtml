@@ -3,11 +3,31 @@
 }
 
 <div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <h1>Social Media</h1>
+    <p>Just a play around site.</p>
 </div>
 
+
+@foreach (var str in ViewBag.Collection)
+{
+    <div style="border-style:solid;margin:10%;">
+        <div>
+            <h1>@str.title</h1>
+        </div>
+        <div style="float:left">
+            <picture>
+                <source media="(min-width: 650px)" srcset="@str.thumbnails["default"].url">
+                <source media="(min-width: 465px)" srcset="@str.thumbnails["medium"].url">
+                <img src="@str.thumbnails["default"].url" alt="Flowers" style="width:auto;">
+            </picture>
+        </div>
+        <div>
+            <text>@str.description</text>
+        </div>
+    </div>
+}
+
+<!--
 <div class="row">
     <div class="col-md-4">
         <h2>Getting started</h2>
@@ -28,4 +48,4 @@
         <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
         <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
     </div>
-</div>
+</div>-->

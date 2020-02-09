@@ -14,7 +14,7 @@ namespace SocialMediaPlatform.Support
     {
         public string Creds()
         {  
-            return "EXAMPLE-"; // Change this to yours
+            return "test"; // Change this to yours
         }
 
         static readonly HttpClient client = new HttpClient();
@@ -69,8 +69,8 @@ namespace SocialMediaPlatform.Support
                     return "" + responseMessages;
                 }
 
-                dynamic responseBody = JObject.Parse(await response.Content.ReadAsStringAsync());            
-                JArray responseArray = responseBody["items"];
+                JObject responseBody = JObject.Parse(await response.Content.ReadAsStringAsync());            
+                JArray responseArray = (JArray)responseBody["items"];
                 string responseBodyString = responseBody.ToString();
                 
 
@@ -119,6 +119,7 @@ namespace SocialMediaPlatform.Support
         public async Task<Array> getPlayList(string playListID, string dir = "desc", int take = 10)
         {
             string apiKey = Creds();
+
             var parm = new Dictionary<string, string>();
             parm.Add("part","snippet");
             parm.Add("playlistId", playListID);
@@ -131,10 +132,22 @@ namespace SocialMediaPlatform.Support
 
             var results = responseOutput
                 .Children()
+                .OrderByDescending(v => v["snippet"]["publishedAt"])
                 .Select(v => v["snippet"].Value<JToken>())
                 .Take(take)
-                .ToArray()                
+                .ToArray()
             ;
+
+            if (dir == "asc")
+            {
+                    results = responseOutput
+                    .Children()
+                    .OrderBy(v => v["snippet"]["publishedAt"])
+                    .Select(v => v["snippet"].Value<JToken>())
+                    .Take(take)
+                    .ToArray()
+                ;
+            }
 
             return results;
         }

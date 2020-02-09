@@ -20,7 +20,8 @@ namespace SocialMediaPlatform.Controllers
             string playListID = "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2";
             Array testOutput = await instance.getPlayList(playListID);
 
-            //System.Diagnostics.Debug.WriteLine(testOutput);
+            ViewBag.Collection = testOutput;
+
             return View();
 
         }
