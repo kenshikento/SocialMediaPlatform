@@ -1,4 +1,5 @@
-﻿@{
+﻿@using SocialMediaPlatform.Models
+@{
     ViewBag.Title = "Home Page";
 }
 
@@ -8,23 +9,48 @@
 </div>
 
 
-@foreach (var str in ViewBag.Collection)
+
+
+@using (Html.BeginForm("FormTwo", "Home", FormMethod.Post))
 {
-    <div style="border-style:solid;margin:10%;">
-        <div>
-            <h1>@str.title</h1>
+    @model SocialMedia
+    @Html.Label("id", "PlayListID")
+    @Html.TextBox("id", null, new { @class = "form-control" })
+    @Html.ValidationMessageFor(SocialMedia => SocialMedia.id)
+    @Html.DropDownList("Type",
+        new SelectList(Enum.GetValues(typeof(Platform))),
+        "Select Platform",
+        new { @class = "form-control"
+    })
+    @Html.ValidationMessageFor(SocialMedia => SocialMedia.Type)
+
+    <input type="submit" value="submit" />
+}
+
+@if (ViewBag.Collection)
+{
+    foreach (var str in ViewBag.Collection)
+    {
+        <div style="border-style:solid;margin:10%;">
+            <div>
+                <h1>@str.title</h1>
+            </div>
+            <div style="float:left">
+                <picture>
+                    <source media="(min-width: 650px)" srcset="@str.thumbnails["default"].url">
+                    <source media="(min-width: 465px)" srcset="@str.thumbnails["medium"].url">
+                    <img src="@str.thumbnails["default"].url" alt="Flowers" style="width:auto;">
+                </picture>
+            </div>
+            <div>
+                <text>@str.description</text>
+            </div>
         </div>
-        <div style="float:left">
-            <picture>
-                <source media="(min-width: 650px)" srcset="@str.thumbnails["default"].url">
-                <source media="(min-width: 465px)" srcset="@str.thumbnails["medium"].url">
-                <img src="@str.thumbnails["default"].url" alt="Flowers" style="width:auto;">
-            </picture>
-        </div>
-        <div>
-            <text>@str.description</text>
-        </div>
-    </div>
+    }
+}
+else
+{
+    <span> No Results</span>
 }
 
 <!--

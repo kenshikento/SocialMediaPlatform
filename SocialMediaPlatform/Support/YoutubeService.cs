@@ -61,12 +61,12 @@ namespace SocialMediaPlatform.Support
                 HttpRequestMessage requestMessage = new HttpRequestMessage(HttpMethod.Get, Url);
                 requestMessage.Headers.Add("Accept", "application / json");
                 HttpResponseMessage response = await client.SendAsync(requestMessage);
-                int responseMessages;
+                //int responseMessages;
 
                 if (!response.IsSuccessStatusCode) // Needs figure it out casting it straight string as method expects STRING
                 {
-                    responseMessages = (int)response.StatusCode;
-                    return "" + responseMessages;
+                   // responseMessages = (int)response.StatusCode;
+                    return  "404";
                 }
 
                 JObject responseBody = JObject.Parse(await response.Content.ReadAsStringAsync());            
@@ -112,7 +112,7 @@ namespace SocialMediaPlatform.Support
             }
             catch (HttpRequestException e) 
             {
-                return "Returned Nothing or call terribly wrong" + e;
+                return "Returned Nothing or call terribly wrong" + e; // Need  to throw exception
             }
         }
 
@@ -122,12 +122,21 @@ namespace SocialMediaPlatform.Support
 
             var parm = new Dictionary<string, string>();
             parm.Add("part","snippet");
-            parm.Add("playlistId", playListID);
+            parm.Add("playlistId", "123");
             parm.Add("key", apiKey);
             string type = "playlistItems";
 
-
+            //var response = await BaseCall(type, parm);
+            //System.Diagnostics.Debug.WriteLine(response);
             string response = await BaseCall(type, parm);
+
+
+            if (response == "404" )
+            {
+                string[] emptyOutput = new string[] { };
+                return emptyOutput;
+            }
+
             JArray responseOutput = JArray.Parse(response);
 
             var results = responseOutput
