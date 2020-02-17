@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using SocialMediaPlatform.Models;
 
 namespace SocialMediaPlatform.Support
 {
@@ -59,7 +57,7 @@ namespace SocialMediaPlatform.Support
                 }
 
                 HttpRequestMessage requestMessage = new HttpRequestMessage(HttpMethod.Get, Url);
-                requestMessage.Headers.Add("Accept", "application / json");
+                //requestMessage.Headers.Add("Accept", "application / json");
                 HttpResponseMessage response = await client.SendAsync(requestMessage);
                 //int responseMessages;
 
@@ -122,7 +120,7 @@ namespace SocialMediaPlatform.Support
 
             var parm = new Dictionary<string, string>();
             parm.Add("part","snippet");
-            parm.Add("playlistId", "123");
+            parm.Add("playlistId", playListID);
             parm.Add("key", apiKey);
             string type = "playlistItems";
 

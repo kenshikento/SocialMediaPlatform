@@ -13,8 +13,10 @@ namespace SocialMediaPlatform.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
-        {            
+        public async Task<ActionResult> Index()
+        {
+            var instanceSpot = new SpotifyService();
+            string testOutput123 = await instanceSpot.testAuthenticate();
             return View();
         }
 
@@ -38,8 +40,8 @@ namespace SocialMediaPlatform.Controllers
 
                 }
 
-            }
 
+            }
             return View("index",model);
         }
 
