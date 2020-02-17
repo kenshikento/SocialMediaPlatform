@@ -23,7 +23,7 @@ namespace SocialMediaPlatform.Support
             return token;
         }
 
-        public async Task<SpotifyPlaylist> testAuthenticate()
+        public async Task<SpotifyPlaylist> GetPlayList()
         {
             SpotifyToken tokenfile = await GetAuthHeader();
             string token = tokenfile.AccessToken;
@@ -33,7 +33,7 @@ namespace SocialMediaPlatform.Support
 
            
             //NEED TO ADD CHECK FOR EXPIRED TOKEN just example playlist used
-            string playlistUrl = GetPlayList("1YVfgqp3GsQrI47CXzWiRd");
+            string playlistUrl = GetPlayListUrl("1YVfgqp3GsQrI47CXzWiRd");
 
             HttpClient client = new HttpClient();
             client.DefaultRequestHeaders.Add("Authorization",token);
@@ -45,7 +45,7 @@ namespace SocialMediaPlatform.Support
 
         }
 
-        public string GetPlayList(string playlistID, string loc = "", int limit = 50)
+        public string GetPlayListUrl(string playlistID, string loc = "", int limit = 50)
         {
             limit = Math.Min(50, limit);
             StringBuilder builder = new StringBuilder(BaseUrl + "/playlists/" + playlistID);

@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.IO;
 using Newtonsoft.Json;
 using SocialMediaPlatform.Models;
+using SocialMediaPlatform.Models.Spotify;
 
 namespace SocialMediaPlatform.Controllers
 {
@@ -16,7 +17,7 @@ namespace SocialMediaPlatform.Controllers
         public async Task<ActionResult> Index()
         {
             var instanceSpot = new SpotifyService();
-            string testOutput123 = await instanceSpot.testAuthenticate();
+            SpotifyPlaylist testOutput123 = await instanceSpot.GetPlayList();
             return View();
         }
 
