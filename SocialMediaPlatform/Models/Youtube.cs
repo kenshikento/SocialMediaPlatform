@@ -11,8 +11,5 @@ namespace SocialMediaPlatform.Models
         public string Title { get; set; }
         public string id { get; set; }
         
-        //public string Description { get; set; }
-        //public DateTime PublishedAt { get; set; }
-        //public object Thumbnail { get; set; }
     }
 }

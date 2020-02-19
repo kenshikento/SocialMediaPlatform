@@ -11,8 +11,8 @@ namespace SocialMediaPlatform.Support.Helpers
 {
     public class AuthSpot
     {
-        public static string CLIENT_ID = "add ur own";
-        public static string CLIENT_SECRET = "add ur own";
+        public static string CLIENT_ID = "ur";
+        public static string CLIENT_SECRET = "ur";
         public static string REDIRECT_URI = "";
 
         private string GetAuthHeader() => $"Basic {Convert.ToBase64String(Encoding.UTF8.GetBytes(CLIENT_ID + ":" + CLIENT_SECRET))}";

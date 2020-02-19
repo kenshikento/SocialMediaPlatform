@@ -14,10 +14,8 @@ namespace SocialMediaPlatform.Controllers
 {
     public class HomeController : Controller
     {
-        public async Task<ActionResult> Index()
+        public ActionResult Index()
         {
-            var instanceSpot = new SpotifyService();
-            SpotifyPlaylist testOutput123 = await instanceSpot.GetPlayList();
             return View();
         }
 
@@ -27,18 +25,22 @@ namespace SocialMediaPlatform.Controllers
             ViewBag.Collection = null;
             if (ModelState.IsValid)
             {
-                if(model.Type.ToString() =="Youtube")
+                if(model.Type.ToString() == "Youtube")
                 {
                     var instance = new YoutubeService();
                     string playListID = "PLrQMMjaEqBpNTb40EHXeD_3r5Q2UyMjC2";
-                    //string playListID = model.id;
+
                     Array testOutput = await instance.getPlayList(playListID);
                     ViewBag.Collection = testOutput;
                 }
 
                 if (model.Type.ToString() == "Spotify")
                 {
+                    var instanceSpot = new SpotifyService();
+                    SpotifyPlaylist testOutput123 = await instanceSpot.GetPlayList();
+                    //System.Diagnostics.Debug.WriteLine(testOutput123.Tracks.Items[0].Track.Name);
 
+                    ViewBag.Collection = testOutput123;
                 }
 
 

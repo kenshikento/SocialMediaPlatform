@@ -89,7 +89,7 @@ namespace SocialMediaPlatform.Support
 
                     if (baseUrl.Contains(nextPageToken))
                     {
-                        return responseBodyString;
+                        return responseBodyString; // Last page of results 
                     }
 
                     var token = new Dictionary<string, string>();
@@ -124,7 +124,6 @@ namespace SocialMediaPlatform.Support
             parm.Add("key", apiKey);
             string type = "playlistItems";
 
-            //var response = await BaseCall(type, parm);
             //System.Diagnostics.Debug.WriteLine(response);
             string response = await BaseCall(type, parm);
 

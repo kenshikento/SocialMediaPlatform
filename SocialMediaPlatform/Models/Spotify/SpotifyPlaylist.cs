@@ -9,8 +9,14 @@ namespace SocialMediaPlatform.Models
         [JsonProperty("collaborative")]
         public bool Collaborative { get; set; }
 
+        [JsonProperty("description")]
+        public string Description { get; set; }
+
         [JsonProperty("external_urls")]
         public Dictionary<string, string> ExternalUrls { get; set; }
+
+        [JsonProperty("followers")]
+        public Followers Followers { get; set; }
 
         [JsonProperty("href")]
         public string Href { get; set; }
@@ -34,7 +40,7 @@ namespace SocialMediaPlatform.Models
         public string SnapshotId { get; set; }
 
         [JsonProperty("tracks")]
-        public PlaylistTrackCollection Tracks { get; set; }
+        public Paging<PlaylistTrack> Tracks { get; set; }
 
         [JsonProperty("type")]
         public string Type { get; set; }

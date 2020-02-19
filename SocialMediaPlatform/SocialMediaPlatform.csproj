@@ -142,9 +142,13 @@
     </Compile>
     <Compile Include="Models\SocialMedia.cs" />
     <Compile Include="Models\Spotify\BaseModel.cs" />
+    <Compile Include="Models\Spotify\FullTrack.cs" />
     <Compile Include="Models\Spotify\GenericModels.cs" />
+    <Compile Include="Models\Spotify\Paging.cs" />
     <Compile Include="Models\Spotify\PublicProfile.cs" />
     <Compile Include="Models\Spotify\ResponseInfo.cs" />
+    <Compile Include="Models\Spotify\SimpleAlbum.cs" />
+    <Compile Include="Models\Spotify\SimpleArtist.cs" />
     <Compile Include="Models\Spotify\SpotifyPlaylist.cs" />
     <Compile Include="Models\Spotify\SpotifyToken.cs" />
     <Compile Include="Models\Youtube.cs" />

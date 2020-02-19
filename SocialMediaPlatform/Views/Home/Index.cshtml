@@ -8,9 +8,6 @@
     <p>Just a play around site.</p>
 </div>
 
-
-
-
 @using (Html.BeginForm("FormTwo", "Home", FormMethod.Post))
 {
     @model SocialMedia
@@ -27,7 +24,7 @@
     <input type="submit" value="submit" />
 }
 
-@if (ViewBag.Collection != null) /* Needs to be change to check for collection value*/
+@if (ViewBag.Collection != null && ViewBag.Collection.GetType() == typeof(Array)) /* Needs to be change to check for collection value*/
 {
     foreach (var str in ViewBag.Collection)
     {
@@ -48,9 +45,38 @@
         </div>
     }
 }
+else if (ViewBag.Collection != null &&  ViewBag.Collection.GetType() == typeof(SpotifyPlaylist))
+{
+            <h1 style="text-align:center">
+                @ViewBag.Collection.Name
+            </h1>
+            foreach (var str in ViewBag.Collection.Tracks.Items)
+            {
+            <div style="border-style:solid;margin:10%;">
+                <div>
+                    <h1>@str.Track.Name</h1>
+                </div>
+                @foreach (var track in str.Track.Artists)
+                {
+                    <div>
+                        <text>Track Name : @track.Name</text>
+
+                    </div>
+                }
+                <div>
+                    Album Name : @str.Track.Album.Name
+                    <picture>
+                        <img src="@str.Track.Album.Images[0].Url" alt="Flowers" style="width:120px;">
+                    </picture>
+                </div>
+            </div>
+            }
+
+
+}
 else
 {
-    <span> No Results</span>
+<span> No Results</span>
 }
 
 
